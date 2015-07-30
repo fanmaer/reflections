@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+se crea .git que es para uso de git :p
