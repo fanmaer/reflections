@@ -1,3 +1,15 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 se crea .git que es para uso de git :p
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+poder serara en coambios logicos los cambios que se tengan en la carpeta de trabajo
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+validando los archivos que tienen cambios y mirando si los cambios que van en el commit corresponden a los cambios logicos
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+para hacer experimentos sin comprometer el branch pricipal y trabajar y hacer commits sin temor a realizar daños
